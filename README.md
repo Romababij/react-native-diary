@@ -4,13 +4,25 @@ My first try to use react native
 
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/RCKUaPbQD3-lsgmXs0vjkGAKzFEzlgJaQBYcj9wKcFASlCmXnbWKQ-QuOYG0GvmhsHHVICnNrud41t_hqTKb_z7F_ltiEDMPFz7RVbkNJIgwI_FuFvLjxEdMDDFsYJ4rCUVyQMGOp0AxYWNHWhy1deMEA-OKtzsjHZ5RNnqyEq3kkUgpmmDDv_iOkA4lD0CeZhu5l4xjJ31W9vfUEnaxOnFOlAeGA1wv4fhF1soJOD2f-UrugDyBCY36NR5_QoDUP5817kBki_bnL7t_eug2cDdrverCUKzc17kTMt_AUuvmM4OFGCcLKtZmQKdZ3Us_rcdrB0czd4ULAW6wrIvFow9ShWkaX9e6o1jnMiLSUD0o6qM7JWvITGQLimiewMpUsJHvfJZdFPciGQ2V416Cv6Z1704zt13RikU2lTRGy4ISFAjaiGrT8v-zNCUXsxaQfUK1t1RUX0p2ulHLQ68s7Tn7S_ee7Lw_XtqcYdEJenrbjJE0Sy3c191S5DyXq9aCsHjk9JKrdK2gMiELnBzrYwfddI3lSZemStJFkbKH_KU88o2R7UnezBvUEw=w2880-h1564" width="250"/>
-<img src="https://lh3.googleusercontent.com/gELOA7HwXMI5Ek7AydBr_bljSnonR6GmLCvKeY9PPAys6GOX90eZ0RBYP175Bd5U7MlHjoD5CX_L9G_KVhVQVC4_SfklsG0WVsKng0JRRYbspUHs0Dqftch1ix5gCqAhJ9anX7p1_cqvuFg5Bj0yTsByHKyx6jjYS1Ulig1k1z5vw30GG6iikyo9ZmBHLyrAPJE8rVA4maTML8QO6pItoX9UzbOw1a-BmW51ej4gJC8PnJWKjhuVM9s7agKJ1ut2-qLZkVzP6QYG2ZOJJVoseKIVfAOxBSDAXnO2SLJRM33m8ulvj5jUHP--TDBVlNgaMAbCv3IfpUahgPE5IW-Bb4zxeU2ZAUKO6o9dxCELdDKiUpPgTVij0xxtt6xuho6k9jKslWtCw1s8Ohh_R_DcePUd5os1eNZ-UcId0iVTvKVuDdHU-1R9IHNbDU39zlv09ElnwD25M71upqk_h1pcZaU2wws-rLXQTpDxipHR2DGLWJCVSYGsKI_KKE_mttF9ddYRN96sI2SkFrAS_nOMmWyydj8rqub45y4uq5Bq__kcV09fQ982pNYvLA=w1470-h1652" width="250"/>
-<img src="https://lh3.googleusercontent.com/jgfIRsLinscamNIoj6DfHy5u0-PNsT5JZ7eZuvo_jY14kn3O1nKQntPzT9LPs1Tvtios-tvEqDbGEqFOw37sX8VaGLSld9qitWh4s_P6TItm-qkKP19M8BGumjVe4WiaEDlxbz_RnvjtlL8ZNLVx1ayrkGStJqfAaWSDMDIKxBKHjsyAH7S1bDmGNVItOPGmM9c5V_pySQN_y_A25jRbDEuaLmDZD8XpgwRCFJ5h2dZ-tkbDeGwLJNO5XnN5sFcfxSLa9bgae1PevXRQepRPhozZyhuagx7LibEiEqS3Nk-tDABQYkA0ovlfgJHBSaASpw645U1Gl_vwiGJMJ_jB7Ll07sc5YJ9T_WQH8tG_0p7cjj5KomAutVm_SMWp6Aswy7eJCHqxHKgroc3-c1SGIHu3hxDmZT9ofo1H5N72j9R4qUX68TSBQsoGYTR7BxHhow_3LbalmyD_KnDrkxTv_V_B9HGksTHTMnd6JTD-osBkfPvhDurvvHRVmQceJY-okkEgT453i838DCrov6D2xf7c-VucIrk1b5oy9fAHEfN7jhJX8iBJrXNFzg=w1470-h1652" width="250"/>
+ 
+
+  <img src="https://drive.google.com/uc?export=view&id=1NiYYaxphcQqGAqHfWGfmEr62SttkJHni" width="250">
+  
+  <img src="https://drive.google.com/uc?export=view&id=1Xaw_HWKJHD3-SBw7vMu5mmES2ZGHuPZN" width="250">
+  
+  <img src="https://drive.google.com/uc?export=view&id=1GgLgq06CCyaI_pwKea2_KjObKwTt_trs" width="250">
+  
+  <img src="https://drive.google.com/uc?export=view&id=1j4mrpDoED06xW3jIy6PQJAw4Ji8Q8hcd" width="250">
+  
+  <img src="https://drive.google.com/uc?export=view&id=16kuEypIPK7ItqFxttr_oPq4zwyfIc1Xq" width="250">
+  
+  
 </p>
 
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/gaQ9peJhICBR0SEsOL65BMt6WZifIQXdJYkiJw7vuY9YDmmjSPd5l1GIGqqa8G6hCB4DLKXlJFsXCkSsA5bcMd8XQZijQqgQ6B2uP_Rzn1a4-r1vc7V8_mwi9ktQMF85QgbA33pPDbnaT0DbAsAZZLfHoRokTG8wihnXzXUDPFVVc4JcRrpTHYZpGLp46qLfaK1aLCxp_udMfcZa62ReT1f-CZO-f3jBPWRGMnfQaAcTh0S_iz3KtZXKHhaHLEkB2i0Ww-jz-MrZv1pvrunndQ6TXfUVCM-myq-s3ds0wRWWxqrycaSXeptJ0RcOtozbgpYVpvbpHprhJPwujCCap0p9S7ZvDdPA-Wi2RKdfbVq6gXiE2o7E6rWnDzEtm2zdrILAnXL85Cze0cA_lyXlo20bEL-La79sm-lS75aRdPIg7gg37lqjO3WVTcs3x_unPf9EynvodkjxnlwuEdW5HzVmsBxONIw0ZWe9ZisiXDALVIyL17aVKe5Q-Xoz0z0TrXCdjUR9c3ojzD3m2oALRods4UmYihJx-Zgf9F7LJtJOaVzuX4a1SfecRg=w1470-h1652" width="250"/>
-<img src="https://lh3.googleusercontent.com/GfEVNn8Ivjgnfo2wChRh88nWT56ZbavVch92O8sNzhDt__yeaoHQH2OpBdmEONlnctKbftwLzTGeaPTd22GXkKmMGzjSJ9HRqi-eedpEkD0d7VUSeFA8uIRYDUHURsloXKBoBjKIgjd_0qpFjtKkdQGQsnaVior9CsFVaGRxv8CPNvbHSBP0fGEAevxRGfTIdcWuE3weTC4J8H7aZ6kK2y7695iLD-DFpO2HWT4uigy1ULGMOQeB2bzvLrNjTvR3gc4MBaZr74XPPKAL7mzpSovkcb698YJDTkuXyQXFLAW0S8yWbI366SbULw1wtkv8U8iR4Cb-VWrULrwquvEqapeMhQJ8sYzv6cftwTyaMI2u5zvLPM0WXUpdUYBdFSw-Zx3LKtW372HomdAGwYUrSrTfhPT2ydpILWGBllILF1KQLcstq7sCrdOa-IpTMBePP2evSGzfKsZgkw4goRfHR-M5y_SUb4ef2xfy-qfBeG6N2VA8QPEIEna6PTd5zMIG4EdHnaasVmloPvZKcLQ7hsvQPUyXs8Fv5-CjEA0-Gt3MG3wd9cSyfZpHbA=w1470-h1652" width="250"/>
+  <img src="https://drive.google.com/uc?export=view&id=1F_8JFLc3pq2jHzuBijhRQUwPuvIdDZbq" width="250">
+  
+  <img src="https://drive.google.com/uc?export=view&id=1xnde8YNOzn8SHb51IJM--gR62TUUXM1w" width="250">
+  
 </p>
